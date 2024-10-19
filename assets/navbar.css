@@ -33,6 +33,7 @@ li {
     margin-top: 50px;
     overflow-x: hidden;
     overflow-y: hidden;
+    height: 5000px;
 }
 
 .navbar {
