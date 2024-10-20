@@ -1,9 +1,13 @@
+.services {
+    margin-bottom: 100px;
+}
+
 .services-wrapper {
     display: flex;
     /* align-items: flex-start;  */
 }
 
-.service-text {
+.services-wrapper h2 {
     font-size: 36px;
     background-color: #B9FF66;
     font-weight: 500;

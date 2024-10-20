@@ -18,9 +18,14 @@
     margin-bottom: 40px;
 }
 
-.left-text-title {
+.left-text h1 {
     font-size: 60px;
     font-weight: 500;
+    margin: 0px;
+}
+
+.left-text h1:last-of-type {
+    margin-bottom: 30px;
 }
 
 .left-text-about {
